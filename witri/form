@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Form Pendaftaran Calon Osis</title>
+</head>
+<body>
+<h1>Form Pendaftaran Calon Osis</h1>
+<table border="0" style="center"; color:#FF0000">
+
+<tr>
+<td>Nama</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Kelas</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Alamat</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Visi Misi</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Alasan Masuk OSIS</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>Jabatan Yang diinginkan</td>
+<td>:</td>
+<td><input type="text"></td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="submit" name="submit" value="save"/>
+<td><input type="reset" name="reset" value="reset"/>
+</tr>
+
+

@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title> Informasi Jurusan Sekolah</title>
+</head>
+<body>
+<center>
+	Informasi Jurusan Sekolah
+</center>
+Jurusan di SMK Plus Pratama Adi:
+<ol>
+	<li> TKJ </li>
+	<li> Akuntansi</li>
+</ol>
+</body>
+</html>	

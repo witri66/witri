@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title> Sistem Informasi Sekolah </title>
+</head>	
+<body>
+<center>
+	<h1>Sistem Informasi Sekolah</h1><br>
+	<a href="Informasi Sekolah"><h3>Informasi Sekolah</h3></a> <br>
+	<a href="Informasi Jurusan Sekolah"><h3>Informasi Jurusan Sekolah</h3></a> <br>
+	<a href="Sarana dan Prasarana Sekolah"><h3>Sarana dan Prasarana sekolah</h3></a> 
+	<a href="Informasi Sekolah"><h3>next</h3></a> <br>
+</center>
+	
+</body>
+</html>
